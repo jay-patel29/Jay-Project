@@ -1,3 +1,6 @@
+scikit-learn
 streamlit
 numpy
-scikit-learn
+opencv-python
+tensorflow
+streamlit-drawable-canvas
